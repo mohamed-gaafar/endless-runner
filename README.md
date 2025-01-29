@@ -27,22 +27,21 @@ This project uses:
 - Animation triggers (shooting magic, footstep sounds, ...),
 - A bunch of particle systems,
 - Overlapping colliders with initially deactivated physics for exploding wall bricks.
+- Environment Design.
+- Character Interaction.
+- Action Gameplay.
+- Customizable Characters and Equipments.
 
-The following video shows the continuous world generation by using physics
-collisions triggers:
 
-![Platform generation video](.readme/early-animation.webp)
+Here's some gameplay images:
 
-Here's some gameplay footage:
+![Gameplay image1](images/one.png)
+![Gameplay image1](images/two.png)
+![Gameplay image1](images/three.png)
 
-![Gameplay video](.readme/late-game.webp)
+## Additional Notes
 
-A platform prefab showing the triggers used for spawning new platforms
-ahead of the player:
+- This game has been built using Unity, leveraging its powerful tools for creating a visually rich and engaging experience.
+- Future updates or additional features can include multiplayer options, expanded storylines, or enhanced AI for NPCs.
 
-![](.readme/box-triggers.png)
-
-One of the bigger obstacles in the game, the wall, being blasted away
-by the magic spell projectile:
-
-![](.readme/blasting-boxes.jpg)
+We hope you enjoy the adventure! Feel free to provide feedback or suggestions for future improvements.
