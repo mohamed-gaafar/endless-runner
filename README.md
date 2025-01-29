@@ -1,4 +1,4 @@
-# Endless Runner
+# Endless Runner Game
 
 This project implements an endless runner game by following and extending on the ideas
 in my college course to learn and create a complete endless runner game.
